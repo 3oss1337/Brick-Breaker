@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\Ahmed\source\repos\Brick Breaker\Brick Breaker\main.cpp(38,42): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Ahmed\source\repos\Brick Breaker\Brick Breaker\main.cpp(38,36): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Brick Breaker.vcxproj -> C:\Users\Ahmed\source\repos\Brick Breaker\x64\Debug\Brick Breaker.exe
