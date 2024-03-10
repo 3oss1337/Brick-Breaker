@@ -1,4 +1,8 @@
-﻿  main.cpp
-C:\Users\Ahmed\source\repos\Brick Breaker\Brick Breaker\main.cpp(38,42): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-C:\Users\Ahmed\source\repos\Brick Breaker\Brick Breaker\main.cpp(38,36): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-  Brick Breaker.vcxproj -> C:\Users\Ahmed\source\repos\Brick Breaker\x64\Debug\Brick Breaker.exe
+﻿  ImageManager.cpp
+  main.cpp
+C:\Users\Ahmed\Documents\GitHub\Brick Breaker\Brick Breaker\main.cpp(31,80): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+C:\Users\Ahmed\Documents\GitHub\Brick Breaker\Brick Breaker\main.cpp(31,56): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+C:\Users\Ahmed\Documents\GitHub\Brick Breaker\Brick Breaker\main.cpp(36,87): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+C:\Users\Ahmed\Documents\GitHub\Brick Breaker\Brick Breaker\main.cpp(36,63): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+  Generating Code...
+  Brick Breaker.vcxproj -> C:\Users\Ahmed\Documents\GitHub\Brick Breaker\x64\Debug\Brick Breaker.exe
